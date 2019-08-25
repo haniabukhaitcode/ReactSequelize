@@ -1,1 +1,3 @@
 # ReactSequelize
+
+My first Commit
